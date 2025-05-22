@@ -1,5 +1,7 @@
 # Audit Portfolio
 
+*Competed under alias "cats" in the past.*
+
 You can contact me via:
 
 - **Twitter**: [@amarfares_](https://twitter.com/amarfares_)
@@ -44,3 +46,19 @@ You can contact me via:
 | September, 2023 | Centrifuge            | Code4rena       | 1 Medium           | $335    |
 | August, 2023    | Cooler Update         | Sherlock        | 2 Medium           | $19     |
 | July, 2023      | Moonwell              | Code4rena       | 1 Low              | $44     |
+
+
+
+## Private Engagements Feedback
+
+<p align="center">
+  <img width="856" height="205" src="https://github.com/amarfares/audits/blob/main/feedback/feedback3.png">
+</p>
+
+<p align="center">
+  <img width="481" height="166" src="https://github.com/amarfares/audits/blob/main/feedback/feedback2.png">
+</p>
+
+<p align="center">
+  <img width="488" height="132" src="https://github.com/amarfares/audits/blob/main/feedback/feedback1.png">
+</p>
