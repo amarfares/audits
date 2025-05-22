@@ -43,6 +43,7 @@ You can contact me via:
 | February, 2024  | AI Arena              | Code4rena       | 4 High 3 Medium    | $63     |
 | January, 2024   | Salty.IO              | Code4rena       | 3 Medium           | $159    |
 | January, 2024   | Curves                | Code4rena       | 3 High 4 Medium    | $143    |
+| November, 2023  | 🥈 KelpDAO            | Code4rena       | 2 High             | $1091   |
 | September, 2023 | Centrifuge            | Code4rena       | 1 Medium           | $335    |
 | August, 2023    | Cooler Update         | Sherlock        | 2 Medium           | $19     |
 | July, 2023      | Moonwell              | Code4rena       | 1 Low              | $44     |
