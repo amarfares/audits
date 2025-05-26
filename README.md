@@ -24,6 +24,8 @@ You can contact me via:
 
 | Date            | Contest               | Platform        | Findings            | Payout   |
 |-----------------|-----------------------|-----------------|---------------------|----------|
+| May, 2025       | Yearn yBold           | Sherlock        | TBD                | TBD     |
+| May, 2025       | LayerEdge Staking     | Sherlock        | TBD                | TBD     |
 | April, 2025     | Mystic Finance        | Cantina         | TBD                | TBD     |
 | April, 2025     | ZKP2P                 | Sherlock        | TBD                | TBD     |
 | April, 2025     | Alchemix V3           | Cantina         | TBD                | TBD     |
