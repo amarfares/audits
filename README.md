@@ -24,14 +24,11 @@ You can contact me via:
 
 | Date            | Contest               | Platform        | Findings            | Payout   |
 |-----------------|-----------------------|-----------------|---------------------|----------|
-| May, 2025       | Yearn yBold           | Sherlock        | TBD                | TBD     |
-| May, 2025       | LayerEdge Staking     | Sherlock        | TBD                | TBD     |
 | April, 2025     | Mystic Finance        | Cantina         | TBD                | TBD     |
-| April, 2025     | ZKP2P                 | Sherlock        | TBD                | TBD     |
+| April, 2025     | ZKP2P                 | Sherlock        | 2 Medium           | 672 OP  |
 | April, 2025     | Alchemix V3           | Cantina         | TBD                | TBD     |
 | April, 2025     | 🥉 Aegis.im YUSD      | Sherlock        | 1 Medium           | 139 OP |
-| March, 2025     | InfiniFi              | Cantina         | TBD                | TBD     |
-| February, 2025  | RAAC                  | Codehawks       | TBD (64 submitted) | TBD     |
+| February, 2025  | RAAC                  | Codehawks       | 10 High 18 Medium  | $1767   |
 | January, 2025   | 🥉 HMX                | Cantina         | 1 Medium           | $4009  |
 | January, 2025   | PeaPods               | Sherlock        | 1 Medium           | $130    |
 | December, 2024  | Numa                  | Sherlock        | 2 Medium           | $4647   |
