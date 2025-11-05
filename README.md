@@ -24,9 +24,11 @@ You can contact me via:
 
 | Date            | Contest               | Platform        | Findings            | Payout   |
 |-----------------|-----------------------|-----------------|---------------------|----------|
-| April, 2025     | Mystic Finance        | Cantina         | TBD                | TBD     |
+| October, 2025   | Hybra Finance         | Code4rena       | TBA                 | TBA     |
+| September, 2025 | Rezerve               | Sherlock        | TBA                 | TBA     |
+| May, 2025       | Mystic Finance        | Cantina         | 3 High 2 Medium     | $141    |
 | April, 2025     | ZKP2P                 | Sherlock        | 2 Medium           | 672 OP  |
-| April, 2025     | Alchemix V3           | Cantina         | TBD                | TBD     |
+| April, 2025     | Alchemix V3           | Cantina         | 9 High 1 Medium    | $728    |
 | April, 2025     | 🥉 Aegis.im YUSD      | Sherlock        | 1 Medium           | 139 OP |
 | February, 2025  | RAAC                  | Codehawks       | 20 High 18 Medium  | $1767   |
 | January, 2025   | 🥉 HMX                | Cantina         | 1 Medium           | $4009  |
