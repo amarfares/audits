@@ -64,3 +64,10 @@ You can contact me via:
 <p align="center">
   <img width="488" height="132" src="https://github.com/amarfares/audits/blob/main/feedback/feedback1.png">
 </p>
+
+## Additional
+
+- Underwent HunterSec Mentorship (Apr 2024 - Aug 2024) with [George Hunter](https://x.com/georgehntr)
+- Disclosed 2 medium severity bug bounties in the wild for GoatFi
+- Experience with Foundry for testing and development
+- Interested and currently studying Solana Rust
