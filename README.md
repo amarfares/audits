@@ -24,7 +24,7 @@ You can contact me via:
 
 | Date            | Contest               | Platform        | Findings            | Payout   |
 |-----------------|-----------------------|-----------------|---------------------|----------|
-| October, 2025   | Hybra Finance         | Code4rena       | TBA                 | TBA     |
+| October, 2025   | 🥇 Hybra Finance      | Code4rena       | 2 Medium            | $5224    |
 | September, 2025 | Rezerve               | Sherlock        | TBA                 | TBA     |
 | May, 2025       | Mystic Finance        | Cantina         | 3 High 2 Medium     | $141    |
 | April, 2025     | ZKP2P                 | Sherlock        | 2 Medium           | 672 OP  |
